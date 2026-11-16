@@ -1,0 +1,8 @@
+{
+  "name": "ROAR COFFEE — Vietnamese Coffee Brand & B2B Platform",
+  "description": "Khơi bản lĩnh. Đậm chất riêng. Igniting Courage. Defining Character. Official bilingual platform for ROAR COFFEE roasted coffee, S14/S16/S18 green coffee beans, instant collections, membership, and B2B export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
